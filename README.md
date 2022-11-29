@@ -4,7 +4,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=2D57F2&labelColor=202124">
 </p>
 
-<img alt="Rocketpay" title="AppShowcase" src="AppShowcase/capa.png" width="100%"></img>
+<img alt="Rocketpay" title="AppShowcase" src="AppShowcase/Capa.png" width="100%"></img>
 
 <br>
 
